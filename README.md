@@ -5,7 +5,7 @@
 -->
 
 # 💫 About Me:
-- 🔭 I’m currently working as Software Engineer in Albania.
+- 🔭 I’m currently working as Full Stack Software Engineer .
 - 💻 My expertise lies in a wide range of technologies, including Angular, Django, .NET, React & Python.
 - ✨ My core competencies include problem-solving, teamwork, effective communication, and fostering innovation.
 - ⚡ I am an exceptionally self-motivated individual with a keen aptitude for in-depth research and information retrieval.
