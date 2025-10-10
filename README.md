@@ -5,10 +5,9 @@
 -->
 
 # 💫 About Me:
-- 🔭 I’m currently working as Full Stack Software Engineer .
+- 🔭 I’m currently working as Senior Software Engineer .
 - 💻 My expertise lies in a wide range of technologies, including Angular, Django, .NET, React & Python.
 - ✨ My core competencies include problem-solving, teamwork, effective communication, and fostering innovation.
-- ⚡ I am an exceptionally self-motivated individual with a keen aptitude for in-depth research and information retrieval.
 
 ## 🌐 Socials:
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@denisa_k)
