@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-💻 Senior Software Engineer with a passion for **Angular, Python, Django, and AI.<br><br>🚀 I build scalable web applications and intelligent solutions that combine modern frontend technologies with powerful backend architectures.<br><br> Tech I Love<br>🅰️ Angular • 🐍 Python • 🌿 Django • ⚛️ React • 🔷 .NET • 🤖 AI<br><br>Focus Areas<br>- Modern Angular Applications<br>- AI & LLM Integrations<br>- Python & Django Development<br>- REST API Design<br>- Scalable Software Architecture<br><br>✨ Strong believer in problem-solving, teamwork, innovation, and continuous learning.
+💻 Senior Software Engineer with a passion for Angular, Python, Django, and AI.<br><br>🚀 I build scalable web applications and intelligent solutions that combine modern frontend technologies with powerful backend architectures.<br><br> Tech I Love<br>🅰️ Angular • 🐍 Python • 🌿 Django • ⚛️ React • 🔷 .NET • 🤖 AI<br><br>Focus Areas<br>- Modern Angular Applications<br>- AI & LLM Integrations<br>- Python & Django Development<br>- REST API Design<br>- Scalable Software Architecture<br><br>✨ Strong believer in problem-solving, teamwork, innovation, and continuous learning.
 
 
 # 💻 Tech Stack:
